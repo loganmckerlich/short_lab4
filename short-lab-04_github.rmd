@@ -1,7 +1,7 @@
 ---
 title: "Short Lab 4"
-author: "INSERT YOUR NAME HERE"
-date: "Due Date Here"
+author: "Logan McKelrich"
+date: "Feb 27"
 output: html_document
 ---
 
@@ -11,16 +11,6 @@ output: html_document
 1. Register for a (free) [GitHub](https://github.com/) account. You may want to also add the [Student Developer Pack](https://education.github.com/pack) to your account. [Slide](https://svteichman.github.io/STAT302-WIN2022/files/slides/07_debuggit.html#67)
 
 2. Install Git on your computer. [Slide](https://svteichman.github.io/STAT302-WIN2022/files/slides/07_debuggit.html#60)
-
-```{r}
-#install.packages("usethis", "gitcreds")
-library(usethis)
-use_git_config(
-  user.name = "Logan McKerlich",
-  user.email = "logan.mckerlich@gmail.com"
-)
-```
-
 
 3. Introduce yourself to Git. [Slide](https://svteichman.github.io/STAT302-WIN2022/files/slides/07_debuggit.html#68)
 
@@ -38,7 +28,7 @@ use_git_config(
 
 Please type only the link to your repository using the template below. Fill in both the square brackets `[]` and the parentheses `()` with your link.
 
-[YOUR LINK HERE](YOUR LINK HERE)
+[https://github.com/loganmckerlich/short_lab4](https://github.com/loganmckerlich/short_lab4)
 
 Here's a checklist of what we should see at the link above:
 
